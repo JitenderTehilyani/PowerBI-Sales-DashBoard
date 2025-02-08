@@ -25,27 +25,7 @@
 
 <hr>
 
-## 📷 Screenshots  
-<p>Include some screenshots of your dashboard here!</p>
-
-<hr>
-
-## 📥 Installation  
-<p>Follow these steps to set up and run the project:</p>
-<ol>
-  <li>Clone this repository:</li>
-  <pre><code>git clone https://github.com/your-repo/sales-dashboard.git</code></pre>
-  <li>Open the project in Power BI / Tableau.</li>
-  <li>Connect your data source and refresh the dashboard.</li>
-</ol>
-
-<hr>
-
 ## 🤝 Contributing  
 <p>Feel free to fork this repository and contribute by submitting pull requests.</p>
 
-<hr>
-
-## 📜 License  
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
